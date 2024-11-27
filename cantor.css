@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+
+}
+ .Rushhh{
+    position: absolute;
+    left: 900px;
+    right: 40px
+    
+ }
+
+.letrarush{
+    color: aliceblue;
+    font-size: 7rem;
+    font-family: fantasy;
+}
+.letragrande1{
+    font-size: 25px;
+    font-weight: bold;
+    color: aliceblue;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: aliceblue;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
