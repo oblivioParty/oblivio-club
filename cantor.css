@@ -10,9 +10,10 @@ body{
  }
 
 .letrarush{
-    color: aliceblue;
+    color: #7200ac;
     font-size: 7rem;
     font-family: fantasy;
+
 }
 .letragrande1{
     font-size: 20px;
@@ -28,3 +29,10 @@ body{
     font-variant: normal;
     text-transform: none;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+  }
